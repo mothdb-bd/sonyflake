@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/sony/sonyflake/types"
+	"github.com/mothdb-bd/sonyflake/types"
 )
 
 // NewSuccessfulInterfaceAddrs returns a single private IP address

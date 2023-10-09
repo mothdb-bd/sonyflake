@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sony/sonyflake/types"
+	"github.com/mothdb-bd/sonyflake/types"
 )
 
 // These constants are the bit lengths of Sonyflake ID parts.

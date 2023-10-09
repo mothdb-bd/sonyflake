@@ -1,3 +1,3 @@
-module github.com/sony/sonyflake
+module github.com/mothdb-bd/sonyflake
 
-go 1.13
+go 1.21.0

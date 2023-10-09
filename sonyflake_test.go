@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/sony/sonyflake/mock"
-	"github.com/sony/sonyflake/types"
+	"github.com/mothdb-bd/sonyflake/mock"
+	"github.com/mothdb-bd/sonyflake/types"
 )
 
 var sf *Sonyflake
